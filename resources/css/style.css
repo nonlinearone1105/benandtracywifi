@@ -1,0 +1,32 @@
+.center {
+  text-align: center;
+}
+
+.wifi-image {
+  max-width: 3.5rem;
+  margin-right: 20px;
+}
+
+.main {
+  padding: 3%;
+}
+
+.flex-horizontal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-color: #FFF2F0;
+  color: #da8a67;
+  font-family: Raleway, sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.main-image {
+  max-width: 15rem;
+}
