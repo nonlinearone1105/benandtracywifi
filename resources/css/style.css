@@ -39,3 +39,10 @@ h1 {
 .main-image {
   max-width: 15rem;
 }
+
+
+@media only screen and (max-width:1024px) {
+  .main {
+    margin: 2% 5%;
+  }
+}
