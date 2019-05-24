@@ -4,7 +4,7 @@
 
 .wifi-image {
   max-width: 3.5rem;
-  margin-right: 20px;
+  margin-right: 2rem;
 }
 
 .main {
@@ -44,5 +44,21 @@ h1 {
 @media only screen and (max-width:1024px) {
   .main {
     margin: 2% 5%;
+  }
+
+  .main-image {
+    max-width: 20rem;
+  }
+
+  h1 {
+    font-size: 4rem;
+  }
+
+  h2 {
+    font-size: 3rem;
+  }
+
+  .wifi-image {
+    max-width: 5rem;
   }
 }
