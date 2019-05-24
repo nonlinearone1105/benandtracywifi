@@ -51,7 +51,7 @@ h1 {
   }
 
   h1 {
-    font-size: 4rem;
+    font-size: 5rem;
   }
 
   h2 {
@@ -59,10 +59,10 @@ h1 {
   }
 
   .wifi-image {
-    max-width: 5rem;
+    max-width: 7rem;
   }
 
   .border {
-    padding: 10% 2%;
+    padding: 8% 4%;
   }
 }
