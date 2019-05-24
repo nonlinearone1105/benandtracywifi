@@ -43,7 +43,7 @@ h1 {
 
 @media only screen and (max-width:1024px) {
   .main {
-    margin: 2% 5%;
+    margin: 5%;
   }
 
   .main-image {
@@ -60,5 +60,9 @@ h1 {
 
   .wifi-image {
     max-width: 5rem;
+  }
+
+  .border {
+    padding: 10% 2%;
   }
 }
